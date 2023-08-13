@@ -3,7 +3,8 @@
 
 
 
-- Seeking Data Analyst opportunity 
+- Seeking Data Analyst opportunity
+- Im proficient in R, Python, Matlab and SQL
 - Google Data Analyst Certifiecle in progress
 
 
