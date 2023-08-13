@@ -5,7 +5,7 @@
 
 - Seeking Data Analyst opportunity 
 - Google Data Analyst Certifiecle in progress
-- Personal website [link]((https://yun-mei.github.io/))
+
 
 
 <br><br>
