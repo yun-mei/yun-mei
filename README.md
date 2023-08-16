@@ -2,7 +2,7 @@
 <h1 align="center"> <b>Hi 👋 , I'm Yunmei Zheng </b></h1>
 
 
-
+- Recent Engineering grad
 - Seeking Data Analyst opportunity
 - Im proficient in R, Python, Matlab and SQL
 - Google Data Analyst Certifiecle in progress
