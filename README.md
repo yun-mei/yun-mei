@@ -9,7 +9,7 @@
 
  <h3>📫 How to reach me:</h3>
     <p>📧 <a href="mailto:yunmeizheng93@gmail.com">yunmeizheng93@gmail.com</a><br>
-       💼 <a href="https://www.linkedin.com/in/yunmei" target="_blank">LinkedIn Profile</a><br>
+       💼 <a href="https://www.linkedin.com/in/yunmei" target="_blank">LinkedIn </a><br>
       </p>
 
 
