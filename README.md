@@ -7,10 +7,12 @@
 - Im proficient in R, Python, Matlab and SQL
 - Google Data Analyst Certifiecle in progress
 
-### 📫 How to reach me:
+ <h3>📫 How to reach me:</h3>
+    <p>📧 <a href="mailto:yunmeizheng93@gmail.com">yunmeizheng93@gmail.com</a><br>
+       💼 <a href="https://www.linkedin.com/in/yunmei" target="_blank">LinkedIn Profile</a><br>
+      </p>
 
-📧 yunmeizheng93@gmail.com
-💼 [LinkedIn Profile](https://www.linkedin.com/in/yunmei)
+
 
 <br><br>
 <!--
