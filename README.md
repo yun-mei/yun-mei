@@ -5,7 +5,8 @@
 - Recent Engineering grad
 - Seeking Data Analyst opportunity
 - Im proficient in R, Python, Matlab and SQL
-- Google Data Analyst Certifiecle in progress
+- Certificates: Google Data Analytics, Oracle Cloud Data Management
+- Advanced Google Data Analytics in progress!
 
  <h3>📫 How to reach me:</h3>
     <p>📧 <a href="mailto:yunmeizheng93@gmail.com">yunmeizheng93@gmail.com</a><br>
